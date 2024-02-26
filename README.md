@@ -1,8 +1,8 @@
 ![mugetsuuu cover](https://github.com/nijiinhell/Mugetsu/assets/82414193/fa8b0471-4442-4daf-aa41-d886f7c5899b)
 
 It's still under development: goals are adding some functions to make it more advanced and light-weight. Beside other analyze tools, it contains different kind of files to analyze such as .exe, .py, .txt etc.
-I'm trying to add analyze function for other kind of f.types (js | pdf | xls(x) | dll etc.), deep but understandable analyze, integrate to other free services such as VirusTotal, CTI & Malware-based which everyone can use easily.
-If you have wishes to implement, don't hesitate :)
+I'm trying to add analyze functions for other kinds of f.types (js | pdf | xls(x) | dll etc.), deep but understandable analyze, integrate to other free services such as VirusTotal, CTI & Malware-based which everyone can use easily.
+If you have wishes to implement it, don't hesitate :)
 
 Mugetsu - performs several key functions:
 
