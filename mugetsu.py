@@ -20,7 +20,7 @@ COLOR_CYAN = "\033[1;36m"
 COLOR_RESET = "\033[0m"
 
 # VirusTotal API key
-API_KEY = "2f9c804dba22765c3bba6be3c2ddf7e2cc9711c8e8e91afca2ee3a29ba4c7b42"
+API_KEY = "YOUR API KEY"
 
 
 ascii_art = """
