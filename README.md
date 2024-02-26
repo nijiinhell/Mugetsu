@@ -26,6 +26,6 @@ Using:
 python mugetsu.py -f filename
 
 Installation:
-git clone https://github.com/nijiinhell/mugetsu
-cd mugetsu/
-install uninstalled libraries with "pip install [ipapi]"
+git clone https://github.com/nijiinhell/mugetsu ; cd mugetsu/
+
+install uninstalled libraries with "pip install [ipapi]" then enjoy :)
