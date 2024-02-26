@@ -21,3 +21,11 @@ Mugetsu - performs several key functions:
 8. **Command-Line Interface (CLI)**: It offers a command-line interface for user interaction, allowing users to specify the file to analyze and providing a seamless experience.
 
 These functionalities collectively enable the script to analyze files for malicious activity, detect potential threats, and provide valuable insights to aid in cybersecurity efforts.
+
+Using: 
+python mugetsu.py -f filename
+
+Installation:
+git clone https://github.com/nijiinhell/mugetsu
+cd mugetsu/
+install uninstalled libraries with "pip install [ipapi]"
