@@ -30,4 +30,4 @@ python mugetsu.py -f filename
 Installation:
 git clone https://github.com/nijiinhell/mugetsu ; cd mugetsu/
 
-install uninstalled libraries like "pip install [library name]" then enjoy :)
+Note: Don't forget to put your VirusTotal API Key and install uninstalled libraries like "pip install [library name]" then enjoy :)
