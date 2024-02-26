@@ -30,4 +30,4 @@ python mugetsu.py -f filename
 Installation:
 git clone https://github.com/nijiinhell/mugetsu ; cd mugetsu/
 
-install uninstalled libraries with "pip install [ipapi]" then enjoy :)
+install uninstalled libraries like "pip install [library name]" then enjoy :)
